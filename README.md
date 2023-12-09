@@ -23,7 +23,7 @@ Data များကို [Birds.json](https://github.com/sannlynnhtun-coding/B
             <td><a href="https://github.com/mgchit-coding"><img src="https://github.com/mgchit-coding.png" width="60px;"/></a></td>
             <td><a href="https://github.com/Rasunon-Soare"><img src="https://github.com/Rasunon-Soare.png" width="60px;"/></a></td>
             <td><a href="https://github.com/dabria2004"><img src="https://github.com/dabria2004.png" width="60px;"/></a></td> 
-            <td><a href="https://github.com/MyatPhoneThant"><img src="https://github.com/MyatPhoneThant.png" width="60px;"/></a></td>
+            <td><a href="https://github.com/myatphonethant-dev"><img src="https://github.com/myatphonethant-dev.png" width="60px;"/></a></td>
             <td><a href="https://github.com/myatthitlwin8"><img src="https://github.com/myatthitlwin8.png" width="60px;"/></a></td>
             <td><a href="https://github.com/YeYintAung94"><img src="https://github.com/YeYintAung94.png" width="60px;"/></a></td>
             <td><a href="https://github.com/ayechanaungybm"><img src="https://github.com/ayechanaungybm.png" width="60px;"/></a></td>

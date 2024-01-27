@@ -34,6 +34,7 @@ Data များကို [Birds.json](https://github.com/sannlynnhtun-coding/B
 ### Participants
 1. [Paing Soe Khant (Php)](https://github.com/PaingSKhant/Birds)
 2. [Phyo Wunna Kyaw (React)](https://github.com/Phyowunnakyaw/Birds)
+3. [Peter (React)](https://github.com/peterlianpi/Birds)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Birds/blob/main/BirdsFlow1.PNG)
 

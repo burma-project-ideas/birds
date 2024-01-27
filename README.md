@@ -31,7 +31,7 @@ Data များကို [Birds.json](https://github.com/sannlynnhtun-coding/B
     </tbody>
 </table>
 
-## Participants
+### Participants
 1. [Phyo Wunna Kyaw (React)](https://github.com/Phyowunnakyaw/Birds)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Birds/blob/main/BirdsFlow1.PNG)
